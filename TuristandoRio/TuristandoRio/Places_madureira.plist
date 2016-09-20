@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Cristo Redentor em Madureira</string>
+			<key>image</key>
+			<string>imagem_cristo_redentor</string>
+			<key>description</key>
+			<string>Ponto mais importante do Rio de Janeiro</string>
+			<key>address</key>
+			<string>Rua Cosme Velho, 51, Cosme Velho, Rio de Janeiro, RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Forte de Copacabana</string>
+			<key>image</key>
+			<string>imagem_forte_copacabana</string>
+			<key>description</key>
+			<string>Forte Velho e antigo</string>
+			<key>address</key>
+			<string>Praça Cel. Eugênio Franco, Copacabana, Rio de Janeiro, RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pnao de Açucar</string>
+			<key>image</key>
+			<string>imagem_pao_de_acucar</string>
+			<key>description</key>
+			<string>Outro grande ponto turistico do Rio de Janeiro</string>
+			<key>address</key>
+			<string>Avenida Pasteur, 520, Urca, Rio de Janeiro, RJ</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jardim Botânico</string>
+			<key>image</key>
+			<string>imagem_jardim_botanico</string>
+			<key>description</key>
+			<string>Mais um ponto do Rio de Janeiro</string>
+			<key>address</key>
+			<string>Rua Jardim Botânico, 1008, Jardim Botânico, Rio de Janeiro, RJ</string>
+		</dict>
+	</array>
+</dict>
+</plist>
