@@ -14,6 +14,17 @@
 		5111919A1D836066000ACFF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 511191981D836066000ACFF2 /* LaunchScreen.storyboard */; };
 		511191A21D836126000ACFF2 /* Places.plist in Resources */ = {isa = PBXBuildFile; fileRef = 511191A11D836126000ACFF2 /* Places.plist */; };
 		511191A41D836863000ACFF2 /* PlacesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 511191A31D836863000ACFF2 /* PlacesTableViewCell.swift */; };
+		D88D8C811D86EF4C00B80885 /* ViewControllerDet.swift in Sources */ = {isa = PBXBuildFile; fileRef = D88D8C801D86EF4C00B80885 /* ViewControllerDet.swift */; };
+		D8AA62241D8DDEC900549D12 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AA62231D8DDEC800549D12 /* DetailViewController.swift */; };
+		D8AA62261D8DDEF400549D12 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8AA62251D8DDEF300549D12 /* MapKit.framework */; };
+		D8AA622A1D8DE9AD00549D12 /* FotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AA62291D8DE9AD00549D12 /* FotoViewController.swift */; };
+		D8AA622C1D917C4B00549D12 /* ViewControllerBairros.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AA622B1D917C4A00549D12 /* ViewControllerBairros.swift */; };
+		D8AA622E1D91804B00549D12 /* Places_madureira.plist in Resources */ = {isa = PBXBuildFile; fileRef = D8AA622D1D91804B00549D12 /* Places_madureira.plist */; };
+		D8AA62301D9180E300549D12 /* ViewControllerMadureira.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AA622F1D9180E300549D12 /* ViewControllerMadureira.swift */; };
+		D8AA62321D92CC6D00549D12 /* Places_barra.plist in Resources */ = {isa = PBXBuildFile; fileRef = D8AA62311D92CC6D00549D12 /* Places_barra.plist */; };
+		D8AA62341D92D02100549D12 /* ViewControllerBarra.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AA62331D92D02100549D12 /* ViewControllerBarra.swift */; };
+		D8AA62361D92D46F00549D12 /* ViewControllerSaoCristovao.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AA62351D92D46F00549D12 /* ViewControllerSaoCristovao.swift */; };
+		D8AA62381D92D4D400549D12 /* Places_sao_cristovao.plist in Resources */ = {isa = PBXBuildFile; fileRef = D8AA62371D92D4D400549D12 /* Places_sao_cristovao.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +37,17 @@
 		5111919B1D836066000ACFF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		511191A11D836126000ACFF2 /* Places.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Places.plist; sourceTree = "<group>"; };
 		511191A31D836863000ACFF2 /* PlacesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacesTableViewCell.swift; sourceTree = "<group>"; };
+		D88D8C801D86EF4C00B80885 /* ViewControllerDet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerDet.swift; sourceTree = "<group>"; };
+		D8AA62231D8DDEC800549D12 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		D8AA62251D8DDEF300549D12 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		D8AA62291D8DE9AD00549D12 /* FotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FotoViewController.swift; sourceTree = "<group>"; };
+		D8AA622B1D917C4A00549D12 /* ViewControllerBairros.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerBairros.swift; sourceTree = "<group>"; };
+		D8AA622D1D91804B00549D12 /* Places_madureira.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Places_madureira.plist; sourceTree = "<group>"; };
+		D8AA622F1D9180E300549D12 /* ViewControllerMadureira.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerMadureira.swift; sourceTree = "<group>"; };
+		D8AA62311D92CC6D00549D12 /* Places_barra.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Places_barra.plist; sourceTree = "<group>"; };
+		D8AA62331D92D02100549D12 /* ViewControllerBarra.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerBarra.swift; sourceTree = "<group>"; };
+		D8AA62351D92D46F00549D12 /* ViewControllerSaoCristovao.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerSaoCristovao.swift; sourceTree = "<group>"; };
+		D8AA62371D92D4D400549D12 /* Places_sao_cristovao.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Places_sao_cristovao.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8AA62261D8DDEF400549D12 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +65,7 @@
 		511191831D836066000ACFF2 = {
 			isa = PBXGroup;
 			children = (
+				D8AA62251D8DDEF300549D12 /* MapKit.framework */,
 				5111918E1D836066000ACFF2 /* TuristandoRio */,
 				5111918D1D836066000ACFF2 /* Products */,
 			);
@@ -60,12 +84,22 @@
 			children = (
 				5111918F1D836066000ACFF2 /* AppDelegate.swift */,
 				511191911D836066000ACFF2 /* ViewController.swift */,
+				D8AA622F1D9180E300549D12 /* ViewControllerMadureira.swift */,
+				D8AA62331D92D02100549D12 /* ViewControllerBarra.swift */,
+				D8AA62351D92D46F00549D12 /* ViewControllerSaoCristovao.swift */,
+				D8AA622B1D917C4A00549D12 /* ViewControllerBairros.swift */,
+				D88D8C801D86EF4C00B80885 /* ViewControllerDet.swift */,
 				511191931D836066000ACFF2 /* Main.storyboard */,
 				511191961D836066000ACFF2 /* Assets.xcassets */,
 				511191981D836066000ACFF2 /* LaunchScreen.storyboard */,
 				5111919B1D836066000ACFF2 /* Info.plist */,
 				511191A11D836126000ACFF2 /* Places.plist */,
+				D8AA622D1D91804B00549D12 /* Places_madureira.plist */,
+				D8AA62311D92CC6D00549D12 /* Places_barra.plist */,
+				D8AA62371D92D4D400549D12 /* Places_sao_cristovao.plist */,
 				511191A31D836863000ACFF2 /* PlacesTableViewCell.swift */,
+				D8AA62231D8DDEC800549D12 /* DetailViewController.swift */,
+				D8AA62291D8DE9AD00549D12 /* FotoViewController.swift */,
 			);
 			path = TuristandoRio;
 			sourceTree = "<group>";
@@ -129,7 +163,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5111919A1D836066000ACFF2 /* LaunchScreen.storyboard in Resources */,
+				D8AA622E1D91804B00549D12 /* Places_madureira.plist in Resources */,
 				511191971D836066000ACFF2 /* Assets.xcassets in Resources */,
+				D8AA62381D92D4D400549D12 /* Places_sao_cristovao.plist in Resources */,
+				D8AA62321D92CC6D00549D12 /* Places_barra.plist in Resources */,
 				511191A21D836126000ACFF2 /* Places.plist in Resources */,
 				511191951D836066000ACFF2 /* Main.storyboard in Resources */,
 			);
@@ -143,7 +180,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				511191921D836066000ACFF2 /* ViewController.swift in Sources */,
+				D8AA62301D9180E300549D12 /* ViewControllerMadureira.swift in Sources */,
+				D8AA62361D92D46F00549D12 /* ViewControllerSaoCristovao.swift in Sources */,
 				511191901D836066000ACFF2 /* AppDelegate.swift in Sources */,
+				D8AA62241D8DDEC900549D12 /* DetailViewController.swift in Sources */,
+				D88D8C811D86EF4C00B80885 /* ViewControllerDet.swift in Sources */,
+				D8AA622C1D917C4B00549D12 /* ViewControllerBairros.swift in Sources */,
+				D8AA62341D92D02100549D12 /* ViewControllerBarra.swift in Sources */,
+				D8AA622A1D8DE9AD00549D12 /* FotoViewController.swift in Sources */,
 				511191A41D836863000ACFF2 /* PlacesTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -294,6 +338,7 @@
 				511191A01D836066000ACFF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

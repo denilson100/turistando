@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Places_barra.plist
+   TuristandoRio
+
+   Created by Denilson Monteiro on 21/09/16.
+   Copyright (c) 2016 Infnet. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>places</key>
+        <array>
+            <dict>
+                <key>name</key>
+                <string>Barra Shopping</string>
+                <key>image</key>
+                <string>imagem_barra_shopping</string>
+                <key>description</key>
+                <string>Um dos maiores centros de compras da América do Sul, inaugurado em 1981. É considerado um dos 3 shoppings mais fortes da cidade do Rio de Janeiro, ao lado do Norte Shopping e do Shopping Rio Sul.</string>
+                <key>address</key>
+                <string>Avenida das Américas, 4666, Barra da Tijuca, Rio de Janeiro - RJ</string>
+                <key>tipo</key>
+                <string>Comércio</string>
+                <key>avaliacao</key>
+                <string>8</string>
+                <key>check_in</key>
+                <string>NO</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>New York City Center</string>
+                <key>image</key>
+                <string>imagem_new_york</string>
+                <key>description</key>
+                <string>A região da Barra da Tijuca é a mais privilegiada do Rio de Janeiro em quantidade e qualidade de salas de projeção de filmes pois possui 18 salas da rede UCI no New York City Center (tornando-se o maior complexo de salas de cinemas da América do Sul, contando com salas VIP e Imax, únicas do Estado do Rio).</string>
+                <key>address</key>
+                <string>Avenida das Américas, 5000, Barra da Tijuca, Rio de Janeiro - RJ</string>
+                <key>tipo</key>
+                <string>Comércio</string>
+                <key>avaliacao</key>
+                <string>8</string>
+                <key>check_in</key>
+                <string>NO</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Clube Marapendi</string>
+                <key>image</key>
+                <string>imagem_marapendi</string>
+                <key>description</key>
+                <string>É um clube poliesportivo amador brasileiro localizado na Barra da Tijuca, na cidade do Rio de Janeiro. Após reformas do Comitê Olímpico Brasileiro, sediou as competições de tênis dos Jogos Pan-americanos de 2007. Para os Jogos, contou com instalações temporárias para a quadra principal, que terá capacidade para 5 mil pessoas e mais nove quadras auxiliares, com capacidade para 2 mil lugares.</string>
+                <key>address</key>
+                <string>Avenida das Américas, 3979, Barra da Tijuca, Rio de Janeiro - RJ</string>
+                <key>tipo</key>
+                <string>Parque</string>
+                <key>avaliacao</key>
+                <string>8</string>
+                <key>check_in</key>
+                <string>NO</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Barra Music</string>
+                <key>image</key>
+                <string>imagem_barra_music</string>
+                <key>description</key>
+                <string>Suas instalações somam 34 mil metros quadrados e têm capacidade para 6.500 pessoas, além de estacionamento para 1.400 veículos. A estrutura está alinhada à grandiosidade e detalhamento do espaço.</string>
+                <key>address</key>
+                <string>Avenida Ayrton Senna, 5850, Jacarepagua, Rio de Janeiro - RJ </string>
+                <key>tipo</key>
+                <string>Cultura</string>
+                <key>avaliacao</key>
+                <string>6</string>
+                <key>check_in</key>
+                <string>NO</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Parque Aquático Maria Lenk</string>
+                <key>image</key>
+                <string>imagem_park_aquatico</string>
+                <key>description</key>
+                <string>Jogos Panamericanos Rio 2007 - Complexo Esportivo do Autódromo: Parque Aquático (natação, natação sincronizada e saltos ornamentais).</string>
+                <key>address</key>
+                <string>Parque Olímpico da Barra - Avenida Embaixador Abelardo Bueno, Barra da Tijuca, Rio de Janeiro - RJ</string>
+                <key>tipo</key>
+                <string>Esporte</string>
+                <key>avaliacao</key>
+                <string>8</string>
+                <key>check_in</key>
+                <string>YES</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Teatro dos Grandes Atores</string>
+                <key>image</key>
+                <string>imagem_teatro</string>
+                <key>description</key>
+                <string>O palco tem área de 90 m², 57 m² de área útil e boca de cena com 4 metros de altura por 11 de largura, capazes de receber espetáculos de pequeno e médio portes.
+                    As áreas de preparação de espetáculo somam 32 m² para cada sala, que contam ainda com quatro camarins cada.
+                    É a principal sala de dramaturgia da Barra da Tijuca.</string>
+                <key>address</key>
+                <string>Barra Square Shopping Centre - Avenida das Américas, 3.900, Barra da Tijuca, Rio de Janeiro - RJ</string>
+                <key>tipo</key>
+                <string>Cultura</string>
+                <key>avaliacao</key>
+                <string>7</string>
+                <key>check_in</key>
+                <string>NO</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
+

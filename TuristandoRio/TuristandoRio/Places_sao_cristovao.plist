@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Places_sao_cristovao.plist
+   TuristandoRio
+
+   Created by Denilson Monteiro on 21/09/16.
+   Copyright (c) 2016 Infnet. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>places</key>
+        <array>
+            <dict>
+                <key>name</key>
+                <string>Igreja de São Cristóvão</string>
+                <key>image</key>
+                <string>imagem_igreja_sao_cristovao</string>
+                <key>description</key>
+                <string>Somente no fim do século XIX é que a igreja tomou a feição que ora apresenta; isso aconteceu quando ali esteve o Cônego Luiz Antônio Escobar de Araújo que, tendo sido nomeado Vigário, realizou obras de grande monta, dando-lhe o elegante estilo gótico-romano que tanto a distingue dos demais templos religiosos.</string>
+                <key>address</key>
+                <string>Praça Padre Seve, 10, São Cristóvão, Rio de Janeiro - RJ</string>
+                <key>tipo</key>
+                <string>Igreja</string>
+                <key>avaliacao</key>
+                <string>7</string>
+                <key>check_in</key>
+                <string>NO</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Educandário Gonçalves de Araújo</string>
+                <key>image</key>
+                <string>imagem_educandario</string>
+                <key>description</key>
+                <string>Inaugurado em 30 de dezembro de 1900, pelo Presidente Campos Salles e abençoado pelo então Arcebispo do Rio, Dom Joaquim do Arcoverde, o Educandário é uma das mais belas dentre as obras sociais mantidas pela Irmandade da Candelária.</string>
+                <key>address</key>
+                <string>Rua Teixeira Júnior, São Cristóvão, Rio de Janeiro - RJ</string>
+                <key>tipo</key>
+                <string>Educação</string>
+                <key>avaliacao</key>
+                <string>6</string>
+                <key>check_in</key>
+                <string>NO</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Quinta da Boa Vista</string>
+                <key>image</key>
+                <string>imagem_quinta_boa_vista</string>
+                <key>description</key>
+                <string>Quinta da Boa Vista - Lago Maior com os Pedalinhos</string>
+                <key>address</key>
+                <string>Quinta da Boa Vista - Parque da Quinta da Boa Vista, S/N, São Cristóvão, Rio de Janeiro</string>
+                <key>tipo</key>
+                <string>Parque</string>
+                <key>avaliacao</key>
+                <string>9</string>
+                <key>check_in</key>
+                <string>YES</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Observatório Nacional</string>
+                <key>image</key>
+                <string>imagem_observatorio</string>
+                <key>description</key>
+                <string>O observatório foi criado em 1845, sendo assim uma das instituições científicas mais antigas do país. A sua finalidade inicial foi a de orientar os estudos geográficos do território brasileiro e de ensino da navegação.</string>
+                <key>address</key>
+                <string>Rua General José Cristino, 77, São Cristóvão, Rio de Janeiro - RJ</string>
+                <key>tipo</key>
+                <string>Educação</string>
+                <key>avaliacao</key>
+                <string>7</string>
+                <key>check_in</key>
+                <string>NO</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Centro Luiz Gonzaga</string>
+                <key>image</key>
+                <string>imagem_feira_sao_cristovao</string>
+                <key>description</key>
+                <string>O Centro Luiz Gonzaga de Tradições Nordestinas, também conhecido como Feira de São Cristóvão, é um pavilhão que promove a cultura e o comércio de produtos nordestinos. Localiza-se na cidade do Rio de Janeiro, no Brasil. Foi criado em homenagem a Luiz Gonzaga, o Rei do Baião.</string>
+                <key>address</key>
+                <string>Campo de São Cristóvão, s/n, São Cristóvão, Rio de Janeiro - RJ</string>
+                <key>tipo</key>
+                <string>Cultura</string>
+                <key>avaliacao</key>
+                <string>8</string>
+                <key>check_in</key>
+                <string>YES</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Jardim Zoológico do Rio de Janeiro</string>
+                <key>image</key>
+                <string>imagem_zoologico</string>
+                <key>description</key>
+                <string>O Jardim Zoológico do Rio de Janeiro é um jardim zoológico localizado no bairro de São Cristóvão, no município do Rio de Janeiro, no estado do Rio de Janeiro, no Brasil. A instituição tem, entre os seus principais objetivos, o desenvolvimento de atividades de educação ambiental, tendo, por base, os animais de seu acervo.</string>
+                <key>address</key>
+                <string>Quinta da Boa Vista - Parque da Quinta da Boa Vista, S/N, São Cristóvão, Rio de Janeiro</string>
+                <key>tipo</key>
+                <string>Parque</string>
+                <key>avaliacao</key>
+                <string>8</string>
+                <key>check_in</key>
+                <string>NO</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
+

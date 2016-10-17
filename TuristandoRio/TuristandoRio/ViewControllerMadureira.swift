@@ -46,6 +46,8 @@ class ViewControllerMadureira: UIViewController, UITableViewDelegate, UITableVie
         cell.lbDescricao.text = descricao
         cell.lbEndereco.text = endereco
         cell.imageCell.image = UIImage(named: imagem)
+        cell.imageCell.layer.cornerRadius = CGRectGetHeight(cell.imageCell.frame) * 0.5
+        cell.imageCell.clipsToBounds = true
         
         
         return cell

@@ -6,44 +6,100 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Cristo Redentor em Madureira</string>
+			<string>Madureira Shopping</string>
 			<key>image</key>
-			<string>imagem_cristo_redentor</string>
+			<string>imagem_madureira_shopping</string>
 			<key>description</key>
-			<string>Ponto mais importante do Rio de Janeiro</string>
+			<string>O principal shopping do bairro é o Madureira Shopping, um centro integrado de lojas e salas comerciais. Foi inaugurado em abril de 1989. Dentro dele está localizada a unidade Madureira da Universidade Estácio de Sá.</string>
 			<key>address</key>
-			<string>Rua Cosme Velho, 51, Cosme Velho, Rio de Janeiro, RJ</string>
+			<string>Estrada do Portela, 222, Madureira, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Comércio</string>
+            <key>avaliacao</key>
+            <string>6</string>
+            <key>check_in</key>
+            <string>NO</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Forte de Copacabana</string>
+			<string>Parque Madureira</string>
 			<key>image</key>
-			<string>imagem_forte_copacabana</string>
+			<string>imagem_parque_madureira</string>
 			<key>description</key>
-			<string>Forte Velho e antigo</string>
+			<string>É terceiro maior parque e quarta maior área verde do Rio de Janeiro, se tornou então assim uma opção de lazer, tanto para os moradores do bairro quanto para os de outras regiões, com seus atrativos (pista de skate, ciclovias, bosques e riacho) e shows frequentes.</string>
 			<key>address</key>
-			<string>Praça Cel. Eugênio Franco, Copacabana, Rio de Janeiro, RJ</string>
+			<string>Rua Pereira Leitão, 80A, Turiaçu, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Parque</string>
+            <key>avaliacao</key>
+            <string>8</string>
+            <key>check_in</key>
+            <string>NO</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Pnao de Açucar</string>
+			<string>Mercadão de Madureira</string>
 			<key>image</key>
-			<string>imagem_pao_de_acucar</string>
+			<string>imagem_mercadao_madureira</string>
 			<key>description</key>
-			<string>Outro grande ponto turistico do Rio de Janeiro</string>
+			<string>Madureira é um centro comercial que possui vários estabelecimentos, dentre os quais destaca-se um cuja história se confunde com a do próprio bairro: o Mercadão de Madureira, no início uma grande quitanda de hortifrutigranjeiros.</string>
 			<key>address</key>
-			<string>Avenida Pasteur, 520, Urca, Rio de Janeiro, RJ</string>
+			<string>Avenida Ministro Edgard Romero, 127, Madureira, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Comércio</string>
+            <key>avaliacao</key>
+            <string>5</string>
+            <key>check_in</key>
+            <string>NO</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Jardim Botânico</string>
+			<string>Baile Charme</string>
 			<key>image</key>
-			<string>imagem_jardim_botanico</string>
+			<string>imagem_baile_charme</string>
 			<key>description</key>
-			<string>Mais um ponto do Rio de Janeiro</string>
+			<string>O Baile Charme de Madureira é o maior desse gênero no Brasil levando até aproximadamente duas mil pessoas nos dias do evento ao Viaduto Negrão de Lima, foi criado em 1990 por camelôs do bairro que curtiam discotecagem e aproveitavam os finais de semana no baile charme.</string>
 			<key>address</key>
-			<string>Rua Jardim Botânico, 1008, Jardim Botânico, Rio de Janeiro, RJ</string>
+			<string>Rua Carvalho de Souza,  Madureira, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Cultura</string>
+            <key>avaliacao</key>
+            <string>7</string>
+            <key>check_in</key>
+            <string>NO</string>
 		</dict>
+        <dict>
+            <key>name</key>
+            <string>Portela (escola de samba)</string>
+            <key>image</key>
+            <string>imagem_portela</string>
+            <key>description</key>
+            <string>Grêmio Recreativo Escola de Samba Portela (ou simplesmente Portela) é uma escola de samba brasileira da cidade do Rio de Janeiro. É carinhosamente chamada de "A Majestade do Samba" e forma, juntamente com a Deixa Falar e a Mangueira, a tríade das escolas fundadoras do carnaval carioca.</string>
+            <key>address</key>
+            <string>Rua Clara Nunes, 81, Oswaldo Cruz, Rio de Janeiro, RJ</string>
+            <key>tipo</key>
+            <string>Cultura</string>
+            <key>avaliacao</key>
+            <string>8</string>
+            <key>check_in</key>
+            <string>YES</string>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Madureira Esporte Clube</string>
+            <key>image</key>
+            <string>imagem_madureira_esporte_club</string>
+            <key>description</key>
+            <string>Há em Madureira um dos maiores clubes do subúrbio do Rio de Janeiro, o Madureira Esporte Clube, que tem como principal esporte o futebol, fundado em 1914 por comerciantes do bairro com o nome de Fidalgo Futebol Clube se uniu em 1971 a outros três clubes do bairro o Madureira Atlético Clube, o Madureira Tênis Clube e o Imperial Basquete Clube</string>
+            <key>address</key>
+            <string>Rua Conselheiro Galvão, 130, Madureira, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Esporte</string>
+            <key>avaliacao</key>
+            <string>6</string>
+            <key>check_in</key>
+            <string>NO</string>
+        </dict>
 	</array>
 </dict>
 </plist>

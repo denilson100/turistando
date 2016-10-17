@@ -34,8 +34,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         
         //cell customizada
-        let cell = tableView.dequeueReusableCellWithIdentifier("CellPlace", forIndexPath: indexPath) as! PlacesTableViewCell//identificador
-        
+        let cell = tableView.dequeueReusableCellWithIdentifier("CellPlace", forIndexPath: indexPath) as! PlacesTableViewCell    //identificador
+
         let item = places[indexPath.row]
         let nome = item["name"] as! String
         let descricao = item["description"] as! String
@@ -47,7 +47,25 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         cell.lbEndereco.text = endereco
         cell.imageCell.image = UIImage(named: imagem)
         
+        cell.imageCell.layer.cornerRadius = CGRectGetHeight(cell.imageCell.frame) * 0.5
+        cell.imageCell.clipsToBounds = true
+        
         return cell
+    }
+    
+    //Pega os dados do item clicado
+    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        
+        if let indexPath = tableView.indexPathForSelectedRow {
+            
+            let item = places[indexPath.row]
+            print(item)
+            
+            //Converte no ViewControle do detalhe
+            let detailVC = segue.destinationViewController as! DetailViewController
+            
+            detailVC.dicPlace = item as? NSDictionary
+        }
     }
 
 }

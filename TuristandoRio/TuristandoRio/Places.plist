@@ -4,35 +4,118 @@
 <dict>
 	<key>places</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>Cristo Redentor</string>
-			<key>image</key>
-			<string>imagem_cristo_redentor</string>
-			<key>description</key>
-			<string>Ponto mais importante do Rio de Janeiro</string>
-			<key>address</key>
-			<string>Rua Cosme Velho, 51, Cosme Velho, Rio de Janeiro, RJ</string>
-		</dict>
         <dict>
             <key>name</key>
-            <string>Forte de Copacabana</string>
+            <string>Copacabana Palace</string>
             <key>image</key>
-            <string>imagem_forte_copacabana</string>
+            <string>imagem_copacabana_palace</string>
             <key>description</key>
-            <string>Forte Velho e antigo</string>
+            <string>Na atualidade, o Copacabana Palace permanece como um dos mais importantes estabelecimentos hoteleiros da cidade e do Brasil, disponibilizando duzentos e vinte e seis apartamentos e suítes: cento e quarenta e oito no prédio principal e setenta e oito no anexo, distribuídos em uma área de onze mil metros quadrados.</string>
             <key>address</key>
-            <string>Praça Cel. Eugênio Franco, Copacabana, Rio de Janeiro, RJ</string>
+            <string>Avenida Atlântica, 1702, Copacabana, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Hotel</string>
+            <key>avaliacao</key>
+            <string>10</string>
+            <key>check_in</key>
+            <string>YES</string>
         </dict>
         <dict>
             <key>name</key>
-            <string>Pnao de Açucar</string>
+            <string>Cristo Redentor</string>
+            <key>image</key>
+            <string>imagem_cristo_redentor</string>
+            <key>description</key>
+            <string>O monumento foi concebido pelo engenheiro brasileiro Heitor da Silva Costa e construído em colaboração com o escultor francês Paul Landowski e com o engenheiro francês Albert Caquot, entre 1922 e 1931. Foi inaugurada no dia 12 de outubro de 1931, dia de Nossa Senhora Aparecida e fica no bairro de Santa Teresa.</string>
+            <key>address</key>
+            <string>Rua Cosme Velho, 51, Cosme Velho, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Ponto Turistico</string>
+            <key>avaliacao</key>
+            <string>10</string>
+            <key>check_in</key>
+            <string>YES</string>
+        </dict>
+		<dict>
+			<key>name</key>
+			<string>Forte de Copacabana</string>
+			<key>image</key>
+			<string>imagem_forte_copacabana</string>
+			<key>description</key>
+            <string>Oficialmente denominado como Museu Histórico do Exército / Forte de Copacabana (MHEx/FC), computa atualmente um fluxo de cerca de dez mil visitantes por mês, constituindo-se em um dos mais belos cartões-postais da cidade. O turista pode escolher entre a visita restrita (apenas às áreas externas) e a completa (incluindo o interior do forte e o Museu histórico-militar).</string>
+			<key>address</key>
+			<string>Avenida Atlântica, Posto 6, Copacabana, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Ponto Turistico</string>
+            <key>avaliacao</key>
+            <string>8</string>
+            <key>check_in</key>
+            <string>NO</string>
+		</dict>
+        <dict>
+            <key>name</key>
+            <string>Palácio Guanabara</string>
+            <key>image</key>
+            <string>imagem_palacio_guanabara</string>
+            <key>description</key>
+            <string>Construção iniciada pelo português José Machado Coelho em 1853, tendo sido utilizado como residência particular até a década de 1860.
+                Reformado, tornou-se a residência da Princesa Isabel e seu esposo, o Conde d'Eu em 1865, sendo conhecido a partir de então como Paço Isabel.</string>
+            <key>address</key>
+            <string>Palácio Guanabara - Rua Pinheiro Machado, s/n, Laranjeiras, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Ponto Turistico</string>
+            <key>avaliacao</key>
+            <string>8</string>
+            <key>check_in</key>
+            <string>NO</string>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Aeroporto Santos Dumont</string>
+            <key>image</key>
+            <string>imagem_aeroporto</string>
+            <key>description</key>
+            <string>O Aeroporto Santos Dumont é um aeroporto doméstico da cidade do Rio de Janeiro, um dos dez mais movimentados do Brasil. Possui uma localização privilegiada e de fácil acesso bem no centro financeiro da cidade. Construído na década de 30 sobre um aterro à beira da Baía de Guanabara, o Santos Dumont foi o primeiro aeroporto exclusivamente civil a ser inaugurado no Brasil. Atualmente, é o segundo aeroporto mais movimentado do estado do Rio de Janeiro depois do Aeroporto Internacional do Galeão e o sétimo mais movimentado do Brasil, em 2014.</string>
+            <key>address</key>
+            <string>Praça Senador Salgado Filho, s/n, Centro, Rio de Janeiro</string>
+            <key>tipo</key>
+            <string>Aeroporto</string>
+            <key>avaliacao</key>
+            <string>8</string>
+            <key>check_in</key>
+            <string>NO</string>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Maracanã</string>
+            <key>image</key>
+            <string>imagem_maracana</string>
+            <key>description</key>
+            <string>Estádio Jornalista Mário Filho, mais conhecido como Maracanã, o popular Maraca ("semelhante a um chocalho" em tupi-guarani, devido ao som de pássaros que viviam por ali[7]), é um estádio de futebol localizado no Rio de Janeiro e inaugurado em 1950, durante o mandato do então General de Divisão e Prefeito do Distrito Federal do Rio de Janeiro Marechal Ângelo Mendes de Moraes, tendo sido utilizado na Copa do Mundo de Futebol daquele ano.</string>
+            <key>address</key>
+            <string>Avenida Presidente Castelo Branco, Portão 3, Maracanã, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Ponto Turistico</string>
+            <key>avaliacao</key>
+            <string>9</string>
+            <key>check_in</key>
+            <string>YES</string>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Pão de Açucar</string>
             <key>image</key>
             <string>imagem_pao_de_acucar</string>
             <key>description</key>
-            <string>Outro grande ponto turistico do Rio de Janeiro</string>
+            <string>É um complexo de morros localizado no bairro da Urca é composto pelo morro do Pão de Açúcar (que dá nome ao complexo), morro da Urca e morro da Babilônia. Junto com a estátua do Cristo Redentor é o maior cartão-postal da cidade do Rio de Janeiro e um dos mais famosos do Brasil.</string>
             <key>address</key>
             <string>Avenida Pasteur, 520, Urca, Rio de Janeiro, RJ</string>
+            <key>tipo</key>
+            <string>Ponto Turistico</string>
+            <key>avaliacao</key>
+            <string>10</string>
+            <key>check_in</key>
+            <string>NO</string>
         </dict>
         <dict>
             <key>name</key>
@@ -40,9 +123,63 @@
             <key>image</key>
             <string>imagem_jardim_botanico</string>
             <key>description</key>
-            <string>Mais um ponto do Rio de Janeiro</string>
+            <string>Uma das mais belas e bem preservadas áreas verdes da cidade, é um exemplo da diversidade da flora brasileira e estrangeira. Nele podem ser observadas cerca de 6.500 espécies (algumas ameaçadas de extinção), distribuídas por uma área de 54 hectares, ao ar livre e em estufas.</string>
             <key>address</key>
             <string>Rua Jardim Botânico, 1008, Jardim Botânico, Rio de Janeiro, RJ</string>
+            <key>tipo</key>
+            <string>Parque</string>
+            <key>avaliacao</key>
+            <string>8</string>
+            <key>check_in</key>
+            <string>NO</string>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Igreja de Nossa Senhora da Candelária</string>
+            <key>image</key>
+            <string>imagem_candelaria</string>
+            <key>description</key>
+            <string>É um templo católico localizado no Centro da cidade do Rio de Janeiro, no Brasil. É um dos principais monumentos religiosos da cidade, tradicional palco de casamentos da sociedade carioca.</string>
+            <key>address</key>
+            <string>Praça Pio X, s/n, Centro, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Igreja</string>
+            <key>avaliacao</key>
+            <string>8</string>
+            <key>check_in</key>
+            <string>YES</string>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Teatro Municipal do Rio de Janeiro</string>
+            <key>image</key>
+            <string>imagem_teatro_municipal</string>
+            <key>description</key>
+            <string>Inaugurado em 1909, como parte do conjunto arquitetônico das Obras de Reurbanização da Cidade do Rio de Janeiro (RJ), e abertura da Avenida Central, durante a prefeitura de Pereira Passos, exerce desde sua inauguração um importante papel para a cultura carioca e nacional, recebendo em seu palco importantes artistas, orquestras e companhias de Balet.</string>
+            <key>address</key>
+            <string>Praça Floriano, S/N, Centro, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Cultura</string>
+            <key>avaliacao</key>
+            <string>7</string>
+            <key>check_in</key>
+            <string>NO</string>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Boulevard Olimpico</string>
+            <key>image</key>
+            <string>imagem_boulevar_olimpico</string>
+            <key>description</key>
+            <string>O Boulevard Olímpico foi o maior live site da história dos Jogos Olímpicos. Durante mais de um mês, o mundo inteiro viveu junto aos nossos atletas um momento histórico do esporte. Mais de 4 milhões de pessoas puderam participar de tudo isso, direto da Cidade Maravilhosa</string>
+            <key>address</key>
+            <string>Praça Mauá, Centro, Rio de Janeiro - RJ</string>
+            <key>tipo</key>
+            <string>Atividades Olimpicas</string>
+            <key>avaliacao</key>
+            <string>8</string>
+            <key>check_in</key>
+            <string>NO</string>
         </dict>
 	</array>
 </dict>
